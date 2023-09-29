@@ -1,7 +1,12 @@
 # MCC-establecimientos-Mexico
-Lista de establecimientos con su MCC asociado al realizar compras con tarjeta
+Lista de establecimientos con su MCC asociado al realizar compras con tarjeta.
+(Información confirmada por app Plata card / santander cashback)
 
-# Tabla
+## Contribuciones
+Para añadir nuevas líneas deja tu aporte en:
+https://www.reddit.com/r/MexicoFinanciero/comments/16u0f87/busco_una_lista_de_mcc_merchant_category_codes/
+
+## Tabla
 Comercio | Categoría | MCC
 -------- | --------- | ---
 Amazon | compras generales | 4816
