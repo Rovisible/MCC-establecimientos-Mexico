@@ -23,7 +23,7 @@ Uber | Taxi | 4121
 ||
 DHL | Delivery services | 4215
 Rappi | Delivery services | 4121
-Uber eats || Delivery services | 4215
+Uber eats | Delivery services | 4215
 ||
 Izzi web | Mobile, TV and Internet | 4899
 ||
