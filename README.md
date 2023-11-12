@@ -33,7 +33,10 @@ Soriana | Supermarkets | 5411
 ||
 Pemex | Gas stations | 5541
 ||
+Cuidado con el perro | Ropa | ?
 Flexi | Ropa | 5661
+Parisina | Ropa | 5651
+Shasa | Ropa | ?
 ||
 Casa de Toño | Restaurantes | 5812
 Chilis | Restaurantes | 5812
@@ -47,11 +50,13 @@ Garabatos | Comida rápida | 5814
 Little caesars | Comida rápida | 5814
 Pizza hut | Comida rápida | 5814
 Six flags (agua) | Comida rápida | 5814
+Subway | Comida rápida | ?
 Sushi tako | Comida rápida | 5814
 ||
 Farmacias Similares | Farmacias | 5912
 ||
 TotalPass | Entretenimiento | ?
+Tu polideportivo | Entretenimiento | ?
 ||
 Cinépolis | Movie theaters | 7832
 
