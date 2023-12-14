@@ -9,6 +9,8 @@ https://www.reddit.com/r/MexicoFinanciero/comments/16u0f87/busco_una_lista_de_mc
 ## Tabla
 Comercio | Categoría | MCC
 -------- | --------- | ---
+Aeroméxico | Airline tickets | 3076
+||
 Amazon | compras generales | 4816
 AliExpress | compras generales | 5964
 Calii | compras generales | 5399
@@ -28,12 +30,16 @@ Uber eats | Delivery services | 4215
 Izzi web | Mobile, TV and Internet | 4899
 ||
 Bodega aurrerà | Supermarkets | 5411
+Justo | Supermarkets | 5422
 Miniso | Supermarkets | 5422
+Oxxo | Supermarkets | ?
+Seven eleven | Supermarkets | ?
 Soriana | Supermarkets | 5411
 ||
 Pemex | Gas stations | 5541
 ||
 Cuidado con el perro | Ropa | ?
+Dportenis | Ropa | 5661
 Flexi | Ropa | 5661
 Parisina | Ropa | 5651
 Shasa | Ropa | ?
@@ -57,6 +63,8 @@ Farmacias Similares | Farmacias | 5912
 ||
 TotalPass | Entretenimiento | ?
 Tu polideportivo | Entretenimiento | ?
+||
+Xbox (compras/pagos en línea) | Electrónicos | ?
 ||
 Cinépolis | Movie theaters | 7832
 
