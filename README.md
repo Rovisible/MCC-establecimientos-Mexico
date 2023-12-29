@@ -21,6 +21,7 @@ Paypal | compras generales | 5399
 Sanborns | compras generales | 5311
 Temu | compras generales | 7399
 ||
+Didi Taxi | Taxi | 4121
 Uber | Taxi | 4121
 ||
 DHL | Delivery services | 4215
@@ -28,6 +29,10 @@ Rappi | Delivery services | 4121
 Uber eats | Delivery services | 4215
 ||
 Izzi web | Mobile, TV and Internet | 4899
+||
+Multiviveros Cabrera | Flores | 5193
+||
+AirBnb | Viajes | 5399
 ||
 Bodega aurrerà | Supermarkets | 5411
 Justo | Supermarkets | 5422
@@ -59,6 +64,7 @@ Six flags (agua) | Comida rápida | 5814
 Subway | Comida rápida | ?
 Sushi tako | Comida rápida | 5814
 ||
+Farmacias del Ahorro | Farmacias | 5912
 Farmacias Similares | Farmacias | 5912
 ||
 TotalPass | Entretenimiento | ?
