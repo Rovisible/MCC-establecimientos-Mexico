@@ -49,11 +49,15 @@ Flexi | Ropa | 5661
 Parisina | Ropa | 5651
 Shasa | Ropa | ?
 ||
+Barril 23 | Restaurantes | ?
 Casa de Toño | Restaurantes | 5812
 Chilis | Restaurantes | 5812
+Cotorritos | Restaurantes | ?
+Italiannis | Restaurantes | ?
 La buena tierra | Restaurantes | 5811
 Las Brasas | Restaurantes | 5812
 William shakes | Restaurantes | ?
+Wingstop | Restaurantes | ?
 ||
 Cielito querido café | Comida rápida | 5814
 Burger king | Comida rápida | 5814
