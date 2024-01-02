@@ -11,15 +11,16 @@ Comercio | Categoría | MCC
 -------- | --------- | ---
 Aeroméxico | Airline tickets | 3076
 ||
-Amazon | compras generales | 4816
-AliExpress | compras generales | 5964
-Calii | compras generales | 5399
-Coppel | compras generales | 5311
-Del sol | compras generales | 5311
-Deli and light | compras generales | 5399
-Paypal | compras generales | 5399
-Sanborns | compras generales | 5311
-Temu | compras generales | 7399
+Amazon | compras en general | 4816
+AliExpress | compras en general | 5964
+Calii | compras en general | 5399
+Coppel | compras en general | 5311
+Del sol | compras en general | 5311
+Deli and light | compras en general | 5399
+Kigo - Parkimovil | compras en general | 5399
+Paypal | compras en general | 5399
+Sanborns | compras en general | 5311
+Temu | compras en general | 7399
 ||
 Didi Taxi | Taxi | 4121
 Uber | Taxi | 4121
