@@ -54,15 +54,18 @@ Barril 23 | Restaurantes | ?
 Casa de Toño | Restaurantes | 5812
 Chilis | Restaurantes | 5812
 Cotorritos | Restaurantes | ?
+El portón | Restaurantes | ?
 Italiannis | Restaurantes | ?
 La buena tierra | Restaurantes | 5811
 Las Brasas | Restaurantes | 5812
+Vips | Restaurantes | ?
 William shakes | Restaurantes | ?
 Wingstop | Restaurantes | ?
 ||
 Cielito querido café | Comida rápida | 5814
 Burger king | Comida rápida | 5814
 Garabatos | Comida rápida | 5814
+KFC | Comida rápida | ?
 Little caesars | Comida rápida | 5814
 Pizza hut | Comida rápida | 5814
 Six flags (agua) | Comida rápida | 5814
