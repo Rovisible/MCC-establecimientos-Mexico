@@ -37,11 +37,14 @@ AirBnb | Viajes | 5399
 ||
 Bodega aurrerà | Supermarkets | 5411
 Justo | Supermarkets | 5422
+La esperanza | Supermarkets | 5462
+Maskota G11 (central de abasto) | Supermarkets | 5441
 Miniso | Supermarkets | 5422
 Oxxo | Supermarkets | ?
 Seven eleven | Supermarkets | ?
 Soriana | Supermarkets | 5411
 ||
+Gas Oriente (gas LP) | Gas stations | 5541
 Pemex | Gas stations | 5541
 ||
 Cuidado con el perro | Ropa | ?
@@ -79,6 +82,8 @@ TotalPass | Entretenimiento | ?
 Tu polideportivo | Entretenimiento | ?
 ||
 Xbox (compras/pagos en línea) | Electrónicos | ?
+||
+Studio Frau Mann | Beauty | 7230
 ||
 Cinépolis | Movie theaters | 7832
 
