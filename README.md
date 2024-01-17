@@ -20,6 +20,7 @@ Deli and light | compras en general | 5399
 Kigo - Parkimovil | compras en general | 5399
 Paypal | compras en general | 5399
 Sanborns | compras en general | 5311
+Suempresa.com | compras en general | 4816
 Temu | compras en general | 7399
 ||
 Didi Taxi | Taxi | 4121
@@ -74,6 +75,7 @@ Pizza hut | Comida rápida | 5814
 Six flags (agua) | Comida rápida | 5814
 Subway | Comida rápida | ?
 Sushi tako | Comida rápida | 5814
+Taquería La Palmera | Comida rápida | 5814
 ||
 Farmacias del Ahorro | Farmacias | 5912
 Farmacias Similares | Farmacias | 5912
