@@ -87,5 +87,7 @@ Xbox (compras/pagos en línea) | Electrónicos | ?
 ||
 Studio Frau Mann | Beauty | 7230
 ||
+Google | Electrnics and software | 7311
+||
 Cinépolis | Movie theaters | 7832
 
