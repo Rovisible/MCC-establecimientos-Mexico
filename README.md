@@ -30,6 +30,8 @@ DHL | Delivery services | 4215
 Rappi | Delivery services | 4121
 Uber eats | Delivery services | 4215
 ||
+Primera Plus | Transportation | 4722
+||
 Izzi web | Mobile, TV and Internet | 4899
 ||
 Multiviveros Cabrera | Flores | 5193
