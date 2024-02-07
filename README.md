@@ -32,6 +32,8 @@ Uber eats | Delivery services | 4215
 ||
 Primera Plus | Transportation | 4722
 ||
+NeWWW | Electrónicos | 4814
+||
 Izzi web | Mobile, TV and Internet | 4899
 ||
 Multiviveros Cabrera | Flores | 5193
