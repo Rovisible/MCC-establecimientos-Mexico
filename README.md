@@ -38,6 +38,8 @@ Izzi web | Mobile, TV and Internet | 4899
 ||
 Multiviveros Cabrera | Flores | 5193
 ||
+Home Depot | Hogar y reparaciones | 5311
+||
 AirBnb | Viajes | 5399
 ||
 Bodega aurrerà | Supermarkets | 5411
@@ -92,6 +94,9 @@ Xbox (compras/pagos en línea) | Electrónicos | ?
 Studio Frau Mann | Beauty | 7230
 ||
 Google | Electrnics and software | 7311
+||
+Qeeq | Car rental | 7512
+Hertz web | Car rental | 3357
 ||
 Cinépolis | Movie theaters | 7832
 
