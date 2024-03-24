@@ -26,6 +26,8 @@ Temu | compras en general | 7399
 Didi Taxi | Taxi | 4121
 Uber | Taxi | 4121
 ||
+EnvíosPerros | Other | 4214
+||
 DHL | Delivery services | 4215
 Rappi | Delivery services | 4121
 Uber eats | Delivery services | 4215
@@ -58,6 +60,7 @@ Cuidado con el perro | Ropa | ?
 Dportenis | Ropa | 5661
 Flexi | Ropa | 5661
 Parisina | Ropa | 5651
+Promoda | Ropa | 5621
 Shasa | Ropa | ?
 ||
 Barril 23 | Restaurantes | ?
@@ -68,6 +71,7 @@ El portón | Restaurantes | ?
 Italiannis | Restaurantes | ?
 La buena tierra | Restaurantes | 5811
 Las Brasas | Restaurantes | 5812
+Pollo Feliz Apodaca | Restaurantes | 5812
 Vips | Restaurantes | ?
 William shakes | Restaurantes | ?
 Wingstop | Restaurantes | ?
@@ -82,6 +86,7 @@ Six flags (agua) | Comida rápida | 5814
 Subway | Comida rápida | ?
 Sushi tako | Comida rápida | 5814
 Taquería La Palmera | Comida rápida | 5814
+Tim Hortons | Comida rápida | 5814
 ||
 Farmacias del Ahorro | Farmacias | 5912
 Farmacias Similares | Farmacias | 5912
