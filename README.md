@@ -91,6 +91,8 @@ Tim Hortons | Comida rápida | 5814
 Farmacias del Ahorro | Farmacias | 5912
 Farmacias Similares | Farmacias | 5912
 ||
+Decathlon | Sporting goods | 5941
+||
 TotalPass | Entretenimiento | ?
 Tu polideportivo | Entretenimiento | ?
 ||
