@@ -23,6 +23,8 @@ Sanborns | compras en general | 5311
 Suempresa.com | compras en general | 4816
 Temu | compras en general | 7399
 ||
+Vallarta plus | Transportation | 4111
+||
 Didi Taxi | Taxi | 4121
 Uber | Taxi | 4121
 ||
@@ -37,8 +39,13 @@ Primera Plus | Transportation | 4722
 NeWWW | Electrónicos | 4814
 ||
 Izzi web | Mobile, TV and Internet | 4899
+Telcel | Mobile, TV and Internet | 4814
+Telmex | Mobile, TV and Internet | 4814
 ||
 Multiviveros Cabrera | Flores | 5193
+||
+Comex | Home and DIY | 5198
+Ferretería García | Home and DIY | 5251
 ||
 Home Depot | Hogar y reparaciones | 5311
 ||
@@ -87,6 +94,8 @@ Subway | Comida rápida | ?
 Sushi tako | Comida rápida | 5814
 Taquería La Palmera | Comida rápida | 5814
 Tim Hortons | Comida rápida | 5814
+||
+Steam | Electronics and software | 5816
 ||
 Farmacias del Ahorro | Farmacias | 5912
 Farmacias Similares | Farmacias | 5912
