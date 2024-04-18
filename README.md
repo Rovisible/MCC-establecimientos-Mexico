@@ -51,12 +51,13 @@ Home Depot | Hogar y reparaciones | 5311
 ||
 AirBnb | Viajes | 5399
 ||
+Chedraui|Supermarkets|5411
 Bodega aurrerà | Supermarkets | 5411
 Justo | Supermarkets | 5422
 La esperanza | Supermarkets | 5462
 Maskota G11 (central de abasto) | Supermarkets | 5441
 Miniso | Supermarkets | 5422
-Oxxo | Supermarkets | ?
+Oxxo | Supermarkets | 5499 
 Seven eleven | Supermarkets | ?
 Soriana | Supermarkets | 5411
 ||
@@ -75,11 +76,12 @@ Casa de Toño | Restaurantes | 5812
 Chilis | Restaurantes | 5812
 Cotorritos | Restaurantes | ?
 El portón | Restaurantes | ?
+Hooters | Restaurantes | 5812 
 Italiannis | Restaurantes | ?
 La buena tierra | Restaurantes | 5811
 Las Brasas | Restaurantes | 5812
 Pollo Feliz Apodaca | Restaurantes | 5812
-Vips | Restaurantes | ?
+Vips | Restaurantes | 5812 
 William shakes | Restaurantes | ?
 Wingstop | Restaurantes | ?
 ||
@@ -90,6 +92,7 @@ KFC | Comida rápida | ?
 Little caesars | Comida rápida | 5814
 Pizza hut | Comida rápida | 5814
 Six flags (agua) | Comida rápida | 5814
+Sonora Grill | Comida rápida | 5814 
 Subway | Comida rápida | ?
 Sushi tako | Comida rápida | 5814
 Taquería La Palmera | Comida rápida | 5814
