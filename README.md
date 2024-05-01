@@ -19,6 +19,7 @@ Del sol | compras en general | 5311
 Deli and light | compras en general | 5399
 Kigo - Parkimovil | compras en general | 5399
 Paypal | compras en general | 5399
+Riot (LoL RP) | compras en general | 5399
 Sanborns | compras en general | 5311
 Suempresa.com | compras en general | 4816
 Temu | compras en general | 7399
