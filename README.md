@@ -71,6 +71,7 @@ Flexi | Ropa | 5661
 Parisina | Ropa | 5651
 Promoda | Ropa | 5621
 Shasa | Ropa | ?
+Shein | Ropa | 5651
 ||
 Barril 23 | Restaurantes | ?
 Casa de Toño | Restaurantes | 5812
