@@ -11,6 +11,26 @@ Comercio | Categoría | MCC
 -------- | --------- | ---
 Aeroméxico | Airline tickets | 3076
 ||
+Tulotero | Apuestas y loterías | 4816
+||
+Studio Frau Mann | Beauty | 7230
+||
+Qeeq | Car rental | 7512
+Hertz web | Car rental | 3357
+||
+Cielito querido café | Comida rápida | 5814
+Burger king | Comida rápida | 5814
+Garabatos | Comida rápida | 5814
+KFC | Comida rápida | ?
+Little caesars | Comida rápida | 5814
+Pizza hut | Comida rápida | 5814
+Six flags (agua) | Comida rápida | 5814
+Sonora Grill | Comida rápida | 5814 
+Subway | Comida rápida | ?
+Sushi tako | Comida rápida | 5814
+Taquería La Palmera | Comida rápida | 5814
+Tim Hortons | Comida rápida | 5814
+||
 Amazon | compras en general | 4816
 AliExpress | compras en general | 5964
 Calii | compras en general | 5399
@@ -24,15 +44,6 @@ Sanborns | compras en general | 5311
 Suempresa.com | compras en general | 4816
 Temu | compras en general | 7399
 ||
-Vallarta plus | Transportation | 4111
-Primera Plus | Transportation | 4722
-Tarjeta Mi | Transportation | 5966
-||
-Didi Taxi | Taxi | 4121
-Uber | Taxi | 4121
-||
-EnvíosPerros | Other | 4214
-||
 DHL | Delivery services | 4215
 Rappi | Delivery services | 4121
 Uber eats | Delivery services | 4215
@@ -41,43 +52,33 @@ Claude.ai | Electrónicos | 5734
 NeWWW | Electrónicos | 4814
 Xbox (compras/pagos en línea) | Electrónicos | ?
 ||
-Tulotero | Apuestas y loterías | 4816
+TotalPass | Entretenimiento | ?
+Tu polideportivo | Entretenimiento | ?
+||
+Google | Electronics and software | 7311
+Steam | Electronics and software | 5816
+||
+Farmacias del Ahorro | Farmacias | 5912
+Farmacias Similares | Farmacias | 5912
+||
+Multiviveros Cabrera | Flores | 5193
+||
+Gas Oriente (gas LP) | Gas stations | 5541
+Pemex | Gas stations | 5541
+||
+SACMEX (Secretaría de Administración y Finanzas) | Gobierno | 9311
+||
+Comex | Home and DIY | 5198
+Ferretería García | Home and DIY | 5251
+Home Depot | Home and DIY | 5311
 ||
 Izzi web | Mobile, TV and Internet | 4899
 Telcel | Mobile, TV and Internet | 4814
 Telmex | Mobile, TV and Internet | 4814
 ||
-Multiviveros Cabrera | Flores | 5193
+Cinépolis | Movie theaters | 7832
 ||
-Comex | Home and DIY | 5198
-Ferretería García | Home and DIY | 5251
-||
-Home Depot | Hogar y reparaciones | 5311
-||
-Meli Mas | Suscripciones a medios | 5399
-||
-AirBnb | Viajes | 5399
-||
-Bodega aurrerà | Supermarkets | 5411
-Chedraui | Supermarkets | 5411
-Justo | Supermarkets | 5422
-La esperanza | Supermarkets | 5462
-Maskota G11 (central de abasto) | Supermarkets | 5441
-Miniso | Supermarkets | 5422
-Oxxo | Supermarkets | 5499 
-Seven eleven | Supermarkets | ?
-Soriana | Supermarkets | 5411
-||
-Gas Oriente (gas LP) | Gas stations | 5541
-Pemex | Gas stations | 5541
-||
-Cuidado con el perro | Ropa | ?
-Dportenis | Ropa | 5661
-Flexi | Ropa | 5661
-Parisina | Ropa | 5651
-Promoda | Ropa | 5621
-Shasa | Ropa | ?
-Shein | Ropa | 5651
+EnvíosPerros | Other | 4214
 ||
 Barril 23 | Restaurantes | ?
 Casa de Toño | Restaurantes | 5812
@@ -93,35 +94,33 @@ Vips | Restaurantes | 5812
 William shakes | Restaurantes | ?
 Wingstop | Restaurantes | ?
 ||
-Cielito querido café | Comida rápida | 5814
-Burger king | Comida rápida | 5814
-Garabatos | Comida rápida | 5814
-KFC | Comida rápida | ?
-Little caesars | Comida rápida | 5814
-Pizza hut | Comida rápida | 5814
-Six flags (agua) | Comida rápida | 5814
-Sonora Grill | Comida rápida | 5814 
-Subway | Comida rápida | ?
-Sushi tako | Comida rápida | 5814
-Taquería La Palmera | Comida rápida | 5814
-Tim Hortons | Comida rápida | 5814
-||
-Google | Electronics and software | 7311
-Steam | Electronics and software | 5816
-||
-Farmacias del Ahorro | Farmacias | 5912
-Farmacias Similares | Farmacias | 5912
+Cuidado con el perro | Ropa | ?
+Dportenis | Ropa | 5661
+Flexi | Ropa | 5661
+Parisina | Ropa | 5651
+Promoda | Ropa | 5621
+Shasa | Ropa | ?
+Shein | Ropa | 5651
 ||
 Decathlon | Sporting goods | 5941
 ||
-TotalPass | Entretenimiento | ?
-Tu polideportivo | Entretenimiento | ?
+Bodega aurrerà | Supermarkets | 5411
+Chedraui | Supermarkets | 5411
+Justo | Supermarkets | 5422
+La esperanza | Supermarkets | 5462
+Maskota G11 (central de abasto) | Supermarkets | 5441
+Miniso | Supermarkets | 5422
+Oxxo | Supermarkets | 5499 
+Seven eleven | Supermarkets | ?
+Soriana | Supermarkets | 5411
 ||
-Studio Frau Mann | Beauty | 7230
+Meli Mas | Suscripciones a medios | 5399
 ||
-Qeeq | Car rental | 7512
-Hertz web | Car rental | 3357
+Didi Taxi | Taxi | 4121
+Uber | Taxi | 4121
 ||
-Cinépolis | Movie theaters | 7832
+Vallarta plus | Transportation | 4111
+Primera Plus | Transportation | 4722
+Tarjeta Mi | Transportation | 5966
 ||
-SACMEX (Secretaría de Administración y Finanzas) | Gobierno | 9311
+AirBnb | Viajes | 5399
