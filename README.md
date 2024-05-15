@@ -25,6 +25,8 @@ Suempresa.com | compras en general | 4816
 Temu | compras en general | 7399
 ||
 Vallarta plus | Transportation | 4111
+Primera Plus | Transportation | 4722
+Tarjeta Mi | Transportation | 5966
 ||
 Didi Taxi | Taxi | 4121
 Uber | Taxi | 4121
@@ -35,9 +37,11 @@ DHL | Delivery services | 4215
 Rappi | Delivery services | 4121
 Uber eats | Delivery services | 4215
 ||
-Primera Plus | Transportation | 4722
-||
+Claude.ai | Electrónicos | 5734
 NeWWW | Electrónicos | 4814
+Xbox (compras/pagos en línea) | Electrónicos | ?
+||
+Tulotero | Apuestas y loterías | 4816
 ||
 Izzi web | Mobile, TV and Internet | 4899
 Telcel | Mobile, TV and Internet | 4814
@@ -50,10 +54,12 @@ Ferretería García | Home and DIY | 5251
 ||
 Home Depot | Hogar y reparaciones | 5311
 ||
+Meli Mas | Suscripciones a medios | 5399
+||
 AirBnb | Viajes | 5399
 ||
-Chedraui|Supermarkets|5411
 Bodega aurrerà | Supermarkets | 5411
+Chedraui | Supermarkets | 5411
 Justo | Supermarkets | 5422
 La esperanza | Supermarkets | 5462
 Maskota G11 (central de abasto) | Supermarkets | 5441
@@ -100,6 +106,7 @@ Sushi tako | Comida rápida | 5814
 Taquería La Palmera | Comida rápida | 5814
 Tim Hortons | Comida rápida | 5814
 ||
+Google | Electronics and software | 7311
 Steam | Electronics and software | 5816
 ||
 Farmacias del Ahorro | Farmacias | 5912
@@ -110,14 +117,11 @@ Decathlon | Sporting goods | 5941
 TotalPass | Entretenimiento | ?
 Tu polideportivo | Entretenimiento | ?
 ||
-Xbox (compras/pagos en línea) | Electrónicos | ?
-||
 Studio Frau Mann | Beauty | 7230
-||
-Google | Electrnics and software | 7311
 ||
 Qeeq | Car rental | 7512
 Hertz web | Car rental | 3357
 ||
 Cinépolis | Movie theaters | 7832
-
+||
+SACMEX (Secretaría de Administración y Finanzas) | Gobierno | 9311
