@@ -72,6 +72,7 @@ Comex | Home and DIY | 5198
 Ferretería García | Home and DIY | 5251
 Home Depot | Home and DIY | 5311
 ||
+GitHub Copilot | Mobile, TV and Internet | 7372
 Izzi web | Mobile, TV and Internet | 4899
 Telcel | Mobile, TV and Internet | 4814
 Telmex | Mobile, TV and Internet | 4814
