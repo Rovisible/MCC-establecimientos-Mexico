@@ -13,6 +13,7 @@ Aeroméxico | Airline tickets | 3076
 ||
 Tulotero | Apuestas y loterías | 4816
 ||
+Fraiche | Beauty | 5977
 Studio Frau Mann | Beauty | 7230
 ||
 Qeeq | Car rental | 7512
@@ -59,6 +60,7 @@ Google | Electronics and software | 7311
 Steam | Electronics and software | 5816
 ||
 Farmacias del Ahorro | Farmacias | 5912
+Farmacias Regia | Farmacias | ?
 Farmacias Similares | Farmacias | 5912
 ||
 Multiviveros Cabrera | Flores | 5193
@@ -71,6 +73,8 @@ SACMEX (Secretaría de Administración y Finanzas) | Gobierno | 9311
 Comex | Home and DIY | 5198
 Ferretería García | Home and DIY | 5251
 Home Depot | Home and DIY | 5311
+||
+Joy Mia Amor Palma | Jewelry | 5944
 ||
 GitHub Copilot | Mobile, TV and Internet | 7372
 Izzi web | Mobile, TV and Internet | 4899
@@ -106,6 +110,7 @@ Shein | Ropa | 5651
 Decathlon | Sporting goods | 5941
 ||
 Bodega aurrerà | Supermarkets | 5411
+CarneMart | Supermarkets | ?
 Chedraui | Supermarkets | 5411
 Justo | Supermarkets | 5422
 La esperanza | Supermarkets | 5462
