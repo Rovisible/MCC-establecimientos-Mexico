@@ -98,6 +98,7 @@ Italiannis | Restaurantes | ?
 La buena tierra | Restaurantes | 5811
 Las Brasas | Restaurantes | 5812
 Pollo Feliz Apodaca | Restaurantes | 5812
+Taquería Arandas | Restaurantes | ?
 Vips | Restaurantes | 5812 
 William shakes | Restaurantes | ?
 Wingstop | Restaurantes | ?
