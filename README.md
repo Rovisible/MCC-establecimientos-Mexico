@@ -7,8 +7,8 @@ Para añadir nuevas líneas deja tu aporte en:
 https://www.reddit.com/r/MexicoFinanciero/comments/16u0f87/busco_una_lista_de_mcc_merchant_category_codes/
 
 ## Tabla
-Comercio | Categoría | MCC
--------- | --------- | ---
+Comercio | Categoría | MCC | Nota
+-------- | --------- | --- | ----
 Aeroméxico | Airline tickets | 3076
 ||
 Tulotero | Apuestas y loterías | 4816
@@ -21,7 +21,9 @@ Hertz web | Car rental | 3357
 ||
 Cielito querido café | Comida rápida | 5814
 Burger king | Comida rápida | 5814
+Domino's Pizza | Comida rápida | 5814
 Garabatos | Comida rápida | 5814
+IHOP | Comida rápida | 5814
 KFC | Comida rápida | ?
 Little caesars | Comida rápida | 5814
 Pizza hut | Comida rápida | 5814
@@ -80,6 +82,7 @@ GitHub Copilot | Mobile, TV and Internet | 7372
 Izzi web | Mobile, TV and Internet | 4899
 Telcel | Mobile, TV and Internet | 4814
 Telmex | Mobile, TV and Internet | 4814
+TotalPlay | Mobile, TV and Internet | 4814
 ||
 Cinépolis | Movie theaters | 7832
 ||
@@ -105,7 +108,7 @@ Flexi | Ropa | 5661
 Parisina | Ropa | 5651
 Promoda | Ropa | 5621
 Shasa | Ropa | ?
-Shein | Ropa | 5651
+Shein | Ropa | 5651 | Si te lo marca como "General purchases" los contactas y aplican el cashback
 ||
 Decathlon | Sporting goods | 5941
 ||
