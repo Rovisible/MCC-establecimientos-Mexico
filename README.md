@@ -19,6 +19,12 @@ Studio Frau Mann | Beauty | 7230
 Qeeq | Car rental | 7512
 Hertz web | Car rental | 3357
 ||
+GitHub Copilot | Celular, TV e internet | 7372
+Izzi web | Celular, TV e internet | 4899
+Telcel | Celular, TV e internet | 4814
+Telmex | Celular, TV e internet | 4814
+TotalPlay | Celular, TV e internet | 4814
+||
 Cielito querido café | Comida rápida | 5814
 Burger king | Comida rápida | 5814
 Domino's Pizza | Comida rápida | 5814
@@ -34,18 +40,18 @@ Sushi tako | Comida rápida | 5814
 Taquería La Palmera | Comida rápida | 5814
 Tim Hortons | Comida rápida | 5814
 ||
-Amazon | compras en general | 4816
-AliExpress | compras en general | 5964
-Calii | compras en general | 5399
-Coppel | compras en general | 5311
-Del sol | compras en general | 5311
-Deli and light | compras en general | 5399
-Kigo - Parkimovil | compras en general | 5399
-Paypal | compras en general | 5399
-Riot (LoL RP) | compras en general | 5399
-Sanborns | compras en general | 5311
-Suempresa.com | compras en general | 4816
-Temu | compras en general | 7399
+Amazon | Compras en general | 4816
+AliExpress | Compras en general | 5964
+Calii | Compras en general | 5399
+Coppel | Compras en general | 5311
+Del sol | Compras en general | 5311
+Deli and light | Compras en general | 5399
+Kigo - Parkimovil | Compras en general | 5399
+Paypal | Compras en general | 5399
+Riot (LoL RP) | Compras en general | 5399
+Sanborns | Compras en general | 5311
+Suempresa.com | Compras en general | 4816
+Temu | Compras en general | 7399
 ||
 DHL | Delivery services | 4215
 Rappi | Delivery services | 4121
@@ -77,12 +83,6 @@ Ferretería García | Home and DIY | 5251
 Home Depot | Home and DIY | 5311
 ||
 Joy Mia Amor Palma | Jewelry | 5944
-||
-GitHub Copilot | Mobile, TV and Internet | 7372
-Izzi web | Mobile, TV and Internet | 4899
-Telcel | Mobile, TV and Internet | 4814
-Telmex | Mobile, TV and Internet | 4814
-TotalPlay | Mobile, TV and Internet | 4814
 ||
 Cinépolis | Movie theaters | 7832
 ||
