@@ -42,11 +42,12 @@ Tim Hortons | Comida rápida | 5814
 ||
 Amazon | Compras en general | 4816
 AliExpress | Compras en general | 5964
+Bosch en linea | Compras en general | 5399
 Calii | Compras en general | 5399
 Coppel | Compras en general | 5311
 Del sol | Compras en general | 5311
 Deli and light | Compras en general | 5399
-Kigo - Parkimovil | Compras en general | 5399
+Ebay | Compras en general | 5331
 Paypal | Compras en general | 5399
 Riot (LoL RP) | Compras en general | 5399
 Sanborns | Compras en general | 5311
@@ -65,9 +66,12 @@ Xbox (compras/pagos en línea) | Electrónicos | ?
 ||
 TotalPass | Entretenimiento | ?
 Tu polideportivo | Entretenimiento | ?
+Trotime | Entretenimiento | 7941 | maratones
 ||
 Google | Electronics and software | 7311
 Steam | Electronics and software | 5816
+||
+Kigo - Parkimovil | Estacionamiento | 7523
 ||
 Farmacias del Ahorro | Farmacias | 5912
 Farmacias Regia | Farmacias | ?
@@ -122,9 +126,11 @@ Justo | Supermarkets | 5422
 La esperanza | Supermarkets | 5462
 Maskota G11 (central de abasto) | Supermarkets | 5441
 Miniso | Supermarkets | 5422
+Office Depot | Supermarkets | 5411
 Oxxo | Supermarkets | 5499 
 Seven eleven | Supermarkets | ?
 Soriana | Supermarkets | 5411
+Valenti Collezione | Supermarkets | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
 ||
 Meli Mas | Suscripciones a medios | 5399
 ||
