@@ -98,6 +98,7 @@ Barril 23 | Restaurantes | ?
 Casa de Toño | Restaurantes | 5812
 Chilis | Restaurantes | 5812
 Cotorritos | Restaurantes | ?
+Denny's | Restaurantes | ?
 El portón | Restaurantes | ?
 Hooters | Restaurantes | 5812 
 Italiannis | Restaurantes | ?
