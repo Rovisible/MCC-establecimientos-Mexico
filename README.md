@@ -21,7 +21,7 @@ Hertz web | Car rental | 3357
 ||
 GitHub Copilot | Celular, TV e internet | 7372
 Izzi web | Celular, TV e internet | 4899
-Movistar (MercadoPago) | Celular, TV e internet | 5964
+Movistar | Celular, TV e internet | 5964 | Mercado Pago
 Telcel | Celular, TV e internet | 4814
 Telmex | Celular, TV e internet | 4814
 TotalPlay | Celular, TV e internet | 4814
@@ -34,7 +34,7 @@ IHOP | Comida rápida | 5814
 KFC | Comida rápida | ?
 Little caesars | Comida rápida | 5814
 Pizza hut | Comida rápida | 5814
-Six flags (agua) | Comida rápida | 5814
+Six flags | Comida rápida | 5814 | Agua
 Sonora Grill | Comida rápida | 5814 
 Subway | Comida rápida | ?
 Sushi tako | Comida rápida | 5814
@@ -50,7 +50,7 @@ Del sol | Compras en general | 5311
 Deli and light | Compras en general | 5399
 Ebay | Compras en general | 5331
 Paypal | Compras en general | 5399
-Riot (LoL RP) | Compras en general | 5399
+Riot | Compras en general | 5399 | LoL RP
 Sanborns | Compras en general | 5311
 Suempresa.com | Compras en general | 4816
 Temu | Compras en general | 7399
@@ -83,7 +83,7 @@ Multiviveros Cabrera | Flores | 5193
 Gas Oriente (gas LP) | Gas stations | 5541
 Pemex | Gas stations | 5541
 ||
-SACMEX (Secretaría de Administración y Finanzas) | Gobierno | 9311
+SACMEX | Gobierno | 9311 | Secretaría de Administración y Finanzas
 ||
 Comex | Home and DIY | 5198
 Ferretería García | Home and DIY | 5251
@@ -125,9 +125,9 @@ Bodega aurrerà | Sepermercados | 5411
 CarneMart | Sepermercados | ?
 Chedraui | Sepermercados | 5411
 Justo | Sepermercados | 5422
-La comer (físico y online) | Sepermercados | 5411
+La comer | Sepermercados | 5411 | Físico y online
 La esperanza | Sepermercados | 5462
-Maskota G11 (central de abasto) | Sepermercados | 5441
+Maskota G11 | Sepermercados | 5441 | Central de abasto
 Miniso | Sepermercados | 5422
 Office Depot | Sepermercados | 5411
 Oxxo | Sepermercados | 5499 
