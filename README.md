@@ -63,7 +63,7 @@ Suburbia | Departamentales | 5311
 ||
 Claude.ai | Electrónicos | 5734
 NeWWW | Electrónicos | 4814
-Xbox (compras/pagos en línea) | Electrónicos | ?
+Xbox | Electrónicos | ? | En línea
 ||
 TotalPass | Entretenimiento | ?
 Tu polideportivo | Entretenimiento | ?
@@ -80,7 +80,7 @@ Farmacias Similares | Farmacias | 5912
 ||
 Multiviveros Cabrera | Flores | 5193
 ||
-Gas Oriente (gas LP) | Gas stations | 5541
+Gas Oriente | Gas stations | 5541 | Gas LP
 Pemex | Gas stations | 5541
 ||
 SACMEX | Gobierno | 9311 | Secretaría de Administración y Finanzas
@@ -121,7 +121,7 @@ Shein | Ropa | 5651 | Si te lo marca como "General purchases" los contactas y ap
 ||
 Decathlon | Sporting goods | 5941
 ||
-Bodega aurrerà | Sepermercados | 5411
+Bodega aurrerá | Sepermercados | 5411
 CarneMart | Sepermercados | ?
 Chedraui | Sepermercados | 5411
 Justo | Sepermercados | 5422
