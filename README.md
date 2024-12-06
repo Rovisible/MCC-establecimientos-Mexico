@@ -21,6 +21,7 @@ Hertz web | Car rental | 3357
 ||
 GitHub Copilot | Celular, TV e internet | 7372
 Izzi web | Celular, TV e internet | 4899
+Movistar (MercadoPago) | Celular, TV e internet | 5964
 Telcel | Celular, TV e internet | 4814
 Telmex | Celular, TV e internet | 4814
 TotalPlay | Celular, TV e internet | 4814
@@ -120,18 +121,19 @@ Shein | Ropa | 5651 | Si te lo marca como "General purchases" los contactas y ap
 ||
 Decathlon | Sporting goods | 5941
 ||
-Bodega aurrerà | Supermarkets | 5411
-CarneMart | Supermarkets | ?
-Chedraui | Supermarkets | 5411
-Justo | Supermarkets | 5422
-La esperanza | Supermarkets | 5462
-Maskota G11 (central de abasto) | Supermarkets | 5441
-Miniso | Supermarkets | 5422
-Office Depot | Supermarkets | 5411
-Oxxo | Supermarkets | 5499 
-Seven eleven | Supermarkets | ?
-Soriana | Supermarkets | 5411
-Valenti Collezione | Supermarkets | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
+Bodega aurrerà | Sepermercados | 5411
+CarneMart | Sepermercados | ?
+Chedraui | Sepermercados | 5411
+Justo | Sepermercados | 5422
+La comer (físico y online) | Sepermercados | 5411
+La esperanza | Sepermercados | 5462
+Maskota G11 (central de abasto) | Sepermercados | 5441
+Miniso | Sepermercados | 5422
+Office Depot | Sepermercados | 5411
+Oxxo | Sepermercados | 5499 
+Seven eleven | Sepermercados | ?
+Soriana | Sepermercados | 5411
+Valenti Collezione | Sepermercados | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
 ||
 Meli Mas | Suscripciones a medios | 5399
 ||
