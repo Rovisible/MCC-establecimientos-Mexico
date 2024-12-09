@@ -121,19 +121,19 @@ Shein | Ropa | 5651 | Si te lo marca como "General purchases" los contactas y ap
 ||
 Decathlon | Sporting goods | 5941
 ||
-Bodega aurrerá | Sepermercados | 5411
-CarneMart | Sepermercados | ?
-Chedraui | Sepermercados | 5411
-Justo | Sepermercados | 5422
-La comer | Sepermercados | 5411 | Físico y online
-La esperanza | Sepermercados | 5462
-Maskota G11 | Sepermercados | 5441 | Central de abasto
-Miniso | Sepermercados | 5422
-Office Depot | Sepermercados | 5411
-Oxxo | Sepermercados | 5499 
-Seven eleven | Sepermercados | ?
-Soriana | Sepermercados | 5411
-Valenti Collezione | Sepermercados | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
+Bodega aurrerá | Supermercados | 5411
+CarneMart | Supermercados | ?
+Chedraui | Supermercados | 5411
+Justo | Supermercados | 5422
+La comer | Supermercados | 5411 | Físico y online
+La esperanza | Supermercados | 5462
+Maskota G11 | Supermercados | 5441 | Central de abasto
+Miniso | Supermercados | 5422
+Office Depot | Supermercados | 5411
+Oxxo | Supermercados | 5499 
+Seven eleven | Supermercados | ?
+Soriana | Supermercados | 5411
+Valenti Collezione | Supermercados | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
 ||
 Meli Mas | Suscripciones a medios | 5399
 ||
