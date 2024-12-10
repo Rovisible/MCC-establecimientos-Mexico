@@ -22,6 +22,7 @@ Hertz web | Car rental | 3357
 GitHub Copilot | Celular, TV e internet | 7372
 Izzi web | Celular, TV e internet | 4899
 Movistar | Celular, TV e internet | 5964 | Mercado Pago
+Starlink | Celular, TV e internet | 5399 | Si te aparece como ‘Internet’, contacta al servicio al cliente para que te apliquen el cashback.
 Telcel | Celular, TV e internet | 4814
 Telmex | Celular, TV e internet | 4814
 TotalPlay | Celular, TV e internet | 4814
@@ -125,6 +126,7 @@ Bodega aurrerá | Supermercados | 5411
 CarneMart | Supermercados | ?
 Chedraui | Supermercados | 5411
 Justo | Supermercados | 5422
+Kiosko | Supermercados | 5499
 La comer | Supermercados | 5411 | Físico y online
 La esperanza | Supermercados | 5462
 Maskota G11 | Supermercados | 5441 | Central de abasto
@@ -136,6 +138,8 @@ Soriana | Supermercados | 5411
 Valenti Collezione | Supermercados | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
 ||
 Meli Mas | Suscripciones a medios | 5399
+||
+Spotify | Suscripciones | 4816
 ||
 Didi Taxi | Taxi | 4121
 Uber | Taxi | 4121
