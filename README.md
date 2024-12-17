@@ -77,6 +77,7 @@ Kigo - Parkimovil | Estacionamiento | 7523
 ||
 Farmacias del Ahorro | Farmacias | 5912
 Farmacias Regia | Farmacias | ?
+Farmacias San Francisco de Asís | Farmacias | 5912
 Farmacias Similares | Farmacias | 5912
 ||
 Multiviveros Cabrera | Flores | 5193
@@ -91,6 +92,8 @@ Ferretería García | Home and DIY | 5251
 Home Depot | Home and DIY | 5311
 ||
 Joy Mia Amor Palma | Jewelry | 5944
+||
+CFE | Luz | 4900 | Pagado desde app
 ||
 Cinépolis | Movie theaters | 7832
 ||
