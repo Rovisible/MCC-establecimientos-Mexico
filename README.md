@@ -39,6 +39,7 @@ Six flags | Comida rápida | 5814 | Agua
 Sonora Grill | Comida rápida | 5814 
 Subway | Comida rápida | ?
 Sushi tako | Comida rápida | 5814
+Tacos El Pata | Comida rápida | 5814
 Taquería La Palmera | Comida rápida | 5814
 Tim Hortons | Comida rápida | 5814
 ||
@@ -123,6 +124,8 @@ Promoda | Ropa | 5621
 Shasa | Ropa | ?
 Shein | Ropa | 5651 | Si te lo marca como "General purchases" los contactas y aplican el cashback
 ||
+Piñatas Los Arcos | Souvenirs | 5947
+||
 Decathlon | Sporting goods | 5941
 ||
 Bodega aurrerá | Supermercados | 5411
@@ -146,6 +149,8 @@ Spotify | Suscripciones | 4816
 ||
 Didi Taxi | Taxi | 4121
 Uber | Taxi | 4121
+||
+Reino de Magos | Tiendas para niños | 5945 | Juegos de mesa y alimentos
 ||
 Vallarta plus | Transportation | 4111
 Primera Plus | Transportation | 4722
