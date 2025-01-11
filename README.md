@@ -71,6 +71,7 @@ TotalPass | Entretenimiento | ?
 Tu polideportivo | Entretenimiento | ?
 Trotime | Entretenimiento | 7941 | maratones
 ||
+Cyberpuerta | Electronics and software | ?
 Google | Electronics and software | 7311
 Steam | Electronics and software | 5816
 ||
