@@ -67,13 +67,15 @@ Claude.ai | Electrónicos | 5734
 NeWWW | Electrónicos | 4814
 Xbox | Electrónicos | ? | En línea
 ||
-TotalPass | Entretenimiento | ?
-Tu polideportivo | Entretenimiento | ?
-Trotime | Entretenimiento | 7941 | maratones
-||
+Bitcodes.co | Electronics and software | 5816
 Cyberpuerta | Electronics and software | ?
 Google | Electronics and software | 7311
 Steam | Electronics and software | 5816
+WinCDKeys.com | Electronics and software | 5734
+||
+TotalPass | Entretenimiento | ?
+Tu polideportivo | Entretenimiento | ?
+Trotime | Entretenimiento | 7941 | maratones
 ||
 Kigo - Parkimovil | Estacionamiento | 7523
 ||
@@ -100,6 +102,8 @@ CFE | Luz | 4900 | Pagado desde app
 Cinépolis | Movie theaters | 7832
 ||
 EnvíosPerros | Other | 4214
+||
+UnDosTres | Payments | 4814 
 ||
 Barril 23 | Restaurantes | ?
 Casa de Toño | Restaurantes | 5812
