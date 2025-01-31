@@ -44,7 +44,7 @@ Taquería La Palmera | Comida rápida | 5814
 Tim Hortons | Comida rápida | 5814
 ||
 Amazon | Compras en general | 4816
-AliExpress | Compras en general | 5964
+AliExpress | Compras en general | 5199, 5311, 5964
 Bosch en linea | Compras en general | 5399
 Calii | Compras en general | 5399
 Coppel | Compras en general | 5311
