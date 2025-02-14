@@ -162,3 +162,5 @@ Primera Plus | Transportation | 4722
 Tarjeta Mi | Transportation | 5966
 ||
 AirBnb | Viajes | 5399
+||
+JAPAC En línea | Water | 4900 | Compañía de Agua de Culiacán
